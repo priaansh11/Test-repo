@@ -1,1 +1,0 @@
-The is my txt file just for learing how to create a file in the git.
